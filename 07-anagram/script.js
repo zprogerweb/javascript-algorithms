@@ -9,7 +9,7 @@
 */
 
 function anagram(str1, str2) {
-    const fistObj = 
+  return str1.toLowerCase().split("").sort().join("") === str2.toLowerCase().split("").sort().join("")
   }
 
 // Протестируйте решение, вызывая функцию с разными аргументами:
