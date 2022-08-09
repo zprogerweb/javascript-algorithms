@@ -9,10 +9,11 @@
 */
 
 function anagram(str1, str2) {
-    // Напишите код здесь
-}
+    
+  }
 
 // Протестируйте решение, вызывая функцию с разными аргументами:
+//
 
 console.log(anagram('finder', 'Friend')); // true
 console.log(anagram('hello', 'bye')); // false
